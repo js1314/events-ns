@@ -1,0 +1,26 @@
+{
+	"name": "events-ns",
+	"version": "1.1.0",
+	"description": "EventEmitter Namespace Support~",
+	"main": "index.js",
+	"scripts": {
+		"test": "npm test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/js1314/events-ns.git"
+	},
+	"keywords": [
+		"events",
+		"events-ns"
+	],
+	"author": "OWen <733433@qq.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/js1314/events-ns/issues"
+	},
+	"homepage": "https://github.com/js1314/events-ns#readme",
+	"dependencies": {
+		"events": "^3.3.0"
+	}
+}
